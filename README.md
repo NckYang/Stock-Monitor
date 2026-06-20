@@ -80,7 +80,7 @@ streamlit run app.py
 
 - `yfinance`：核心金融數據源，負責抓取 Yahoo Finance 的歷史股價、現價與成交量資料。
 
-- `pandas'：進行數據清洗、報酬率計算與表格資料處理。
+- `pandas`：進行數據清洗、報酬率計算與表格資料處理。
 
 - `requests`：負責發送網路請求（包含抓取 Google 新聞 RSS 與發送 Discord Webhook 通知）。
 
