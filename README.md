@@ -1,4 +1,4 @@
-# 股市監測儀表板 (Stock Monitor Dashboard)
+# 股市資訊系統 (Stock Information System)
 
 這是一個基於 Python 與 Streamlit 開發的輕量級、互動式股市分析工具。提供即時報價、多天期報酬率排行、互動式 K 線圖，並結合網路爬蟲進行新聞情緒聲量分析與 Discord 價格警報推播。
 
